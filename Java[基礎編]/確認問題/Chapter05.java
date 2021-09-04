@@ -1,3 +1,5 @@
+package 確認問題;
+
 public class Chapter05 {
   public static void main(String[] args) {
     long long1 = 12345678910L;

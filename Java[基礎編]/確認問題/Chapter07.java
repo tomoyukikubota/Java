@@ -1,7 +1,5 @@
 package 確認問題;
 
-import jdk.jfr.Description;
-
 public class Chapter07 {
   public static void main(String[] args) {
     int distance = 11;

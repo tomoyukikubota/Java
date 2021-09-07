@@ -1,7 +1,5 @@
 package sample;
 
-import javax.lang.model.util.ElementScanner6;
-
 public class If02 {
   public static void main(String[] args) {
     int number = 7;

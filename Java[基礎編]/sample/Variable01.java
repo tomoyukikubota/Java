@@ -1,5 +1,3 @@
-package sample;
-
 public class Variable01 {
   public static void main(String[] args) {
     int num1; // int型の変数num1を宣言
@@ -16,3 +14,5 @@ public class Variable01 {
     System.out.println(num2);
   }
 }
+
+

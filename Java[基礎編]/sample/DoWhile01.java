@@ -1,5 +1,3 @@
-package sample;
-
 public class DoWhile01 {
   public static void main(String[] args) {
     int number = 1;
@@ -13,3 +11,4 @@ public class DoWhile01 {
 // do {
 //   ブロック（繰り返し処理）
 // } while (条件式);
+

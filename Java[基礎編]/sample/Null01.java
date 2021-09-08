@@ -1,5 +1,3 @@
-package sample;
-
 public class Null01 {
   public static void main(String[] args) {
     String string1;
@@ -17,3 +15,5 @@ public class Null01 {
   }
   
 }
+
+

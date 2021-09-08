@@ -1,5 +1,3 @@
-package sample;
-
 public class Variable02 {
   
   public static void main(String[] args) {
@@ -11,3 +9,5 @@ public class Variable02 {
     // MIN_NUMBER = 20;
   }
 }
+
+

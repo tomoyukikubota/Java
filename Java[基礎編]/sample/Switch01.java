@@ -1,5 +1,3 @@
-package sample;
-
 public class Switch01 {
   public static void main(String[] args) {
     int val = 2;
@@ -29,3 +27,5 @@ public class Switch01 {
     // } else {
     //     System.out.println("がんばろう！");
     // }
+
+

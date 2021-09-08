@@ -1,5 +1,3 @@
-package sample;
-
 public class If01 {
   public static void main(String[] args) {
     int number = 7;
@@ -18,4 +16,6 @@ public class If01 {
     }
   }
 }
+
+
 
